@@ -146,7 +146,7 @@
         padding: 0 15px 0 0;
     }
     .signup ul li:last-child a {
-        background: #f9bf3b none repeat scroll 0 0;
+        background: #BE1E2D none repeat scroll 0 0;
         border-radius: 5px;
         color: #fff;
         padding: 6px 15px;
@@ -221,7 +221,7 @@
         margin-bottom: 9px;
     }
     .dropdownMenu li a {
-        color: #f9bf3b !important
+        color: #BE1E2D !important
     }
     .dropdownMenu li:first-child {
         margin-top: 5px;
@@ -513,7 +513,7 @@
         display: none;
     }
     .navbar-collapse a:hover {
-        color: #f9bf3b !important;
+        color: #BE1E2D !important;
     }
     .pricing-area {
         height: auto;
